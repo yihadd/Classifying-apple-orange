@@ -1,5 +1,4 @@
-# Classifying-apple-orange
-# How to classifile object?
+# Classifying-apple-orange🍎🍊
 #  How do Human learn something?
 ### Reading
 ### listening
@@ -8,4 +7,12 @@
 
 
 # How do Machine learn something?
-### Algorithms
+## Algorithms:
+### Dataset >> Machine(learn from data) >> solving problem
+# How to classifying Apple and Orange?
+## Requirement
+### >> Data set containing apple and orange image
+### >> Anaconda Python
+### >> OpenCV library
+### >> Sklearn library
+### >> Algorithems >> Decision tree
