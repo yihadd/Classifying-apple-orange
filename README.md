@@ -1,5 +1,5 @@
 # Classifying-apple-orange🍎🍊
-https://1.bp.blogspot.com/-pozCVY8R3Es/Uf8VhYFkuKI/AAAAAAAAAcU/ZtbBGa-o1kE/s1600/apple.orange.jpg
+![Uploading Screenshot 2023-11-20 211236.png…]()
 #  How do Human learn something?
 ### Reading
 ### listening
