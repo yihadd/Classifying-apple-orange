@@ -19,3 +19,5 @@
 ### >> Algorithems >> [Decision tree](https://www.borntodev.com/2022/09/15/รู้จักกับ-decision-tree/)
 # DECISION TREE
 ## A decision tree is a supervised machine learning algorithm which learns to classify data into two or more classes.
+![tree](https://github.com/yihadd/Classifying-apple-orange/assets/141911690/2abe0d93-b69b-48d4-b2bb-d0fc03506491)
+
