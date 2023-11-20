@@ -12,7 +12,7 @@
 # How to classifying Apple and Orange?
 ## Requirement
 ### >> Data set containing apple and orange image
-### >> Anaconda Python
+### >> [Anaconda Python]
 ### >> OpenCV library
 ### >> Sklearn library
 ### >> Algorithems >> Decision tree
