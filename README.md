@@ -17,3 +17,5 @@
 ### >> [OpenCV library](https://sourceforge.net/projects/opencvlibrary/)
 ### >>[ Sklearn library](https://scikit-learn.org/stable/index.html)
 ### >> Algorithems >> [Decision tree](https://www.borntodev.com/2022/09/15/รู้จักกับ-decision-tree/)
+# DECISION TREE
+## A decision tree is a supervised machine learning algorithm which learns to classify data into two or more classes.
