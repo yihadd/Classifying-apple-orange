@@ -1,6 +1,5 @@
 # Classifying-apple-orange🍎🍊
-![Screenshot 2023-11-20 211236](https://github.com/yihadd/Classifying-apple-orange/assets/141911690/7835a655-f20a-4361-b392-fbcaa2bea9ee)
-
+![ASD](https://github.com/yihadd/Classifying-apple-orange/assets/141911690/c3a3bf83-9223-4ca8-b94c-1c12f941ef7d)
 #  How do Human learn something?
 ### Reading
 ### listening
